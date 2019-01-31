@@ -1,0 +1,127 @@
+
+.signUpFormbutton, .socialIconSection{
+    text-align: center;
+}
+
+
+.socialIconSection span{
+    margin-right: 2rem;
+    font-size: 1.6em;
+    color: #fff;
+}    
+
+.signupparent .signinback
+{
+    margin: auto;
+    width: 50%;
+    margin-top: 80px;
+    
+}
+.signupparent .headii
+{
+    color: white;
+    margin-top: -10px;
+}
+.signupparent form{
+   display: block;
+   position: relative;
+   width: 400px;
+   height: 340px;
+   background-color:black;
+margin: 50px auto;
+padding: 30px;
+
+}
+.signupparent label{
+    display: block;
+    position: relative;
+    top: -30px;
+    color: white;
+    left: 0px;
+    font-size:20px;
+    z-index: 1;
+    transition: all 0.3s ease;
+    font-weight: normal;
+
+}
+.signupparent .password{
+    display: block;
+    position: relative;
+    background: none;
+    border: none;
+    
+    color: white;
+    
+    width: 100%;
+     font-weight: bold;
+    font-size: 16px;
+    z-index: 2;     
+}
+.signupparent input{
+    display: block;
+    position: relative;
+    background: none;
+    border: none;
+    border-bottom: 1px solid white;
+    
+    color: white;
+    
+    width: 100%;
+     font-weight: bold;
+    font-size: 16px;
+    z-index: 2;     
+    
+}
+.signupparent input:focus , input:valid{
+    outline: none;
+    border-bottom: 1px solid white;
+}
+
+.signupparent input:focus + label , input:valid + label
+{
+    top: -60px;
+    font-size: 18px;
+    color: white;
+    font-weight: lighter;
+
+}
+
+
+.signupparent .desc
+{
+    color: aliceblue;
+    margin-top: 30px;
+    font-size: 33px;
+}
+
+.signupparent .header
+{
+    color:white;
+}
+.signupparent .btdimensions
+{
+    height: 100px;
+    width: 100px;
+}
+.signupparent .customname
+{
+    color: White;
+    background: black;
+    margin-left: 270px;
+    margin-top: 20px;
+    font-size: 22px;
+    offset: rgb(3,3,45);
+}
+.signupparent .customname:hover
+{
+    border: 4px solid white;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    border-bottom-color:white;
+    
+}
+
+.signupparent .nothavingaccount{
+    color: #ffffff;
+}

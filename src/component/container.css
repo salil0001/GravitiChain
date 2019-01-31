@@ -1,0 +1,35 @@
+.signinButton{
+    text-align: center
+}
+
+.signuptext{
+    color: #ffffff;
+}
+
+.signup{
+    color: blue;
+}
+
+.signuptextWrapper{
+    text-align: center;
+    font-size: 21px;
+    color: white !important; 
+}
+
+.textSi{
+    color: white;
+}
+
+.textSiup{
+    color:red;
+    cursor: pointer;
+}
+.textSiup:hover{
+    color: rgb(255, 206, 206);
+    cursor: pointer;
+}
+
+.logodesc
+{
+    height: 100px;
+}
